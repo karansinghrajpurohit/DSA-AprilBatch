@@ -1,0 +1,11 @@
+1) Find the time complexity of the following code.
+      int a = 1, b = 1;
+      while(b <= n)
+      {
+        a++;
+        b += a;
+        cout<<"HI Coders"<<endl;
+      }
+      
+      
+Answer : O(n) 
